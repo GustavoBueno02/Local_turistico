@@ -9,9 +9,6 @@
   color: #333333;
 }
 
-body {
-}
-
 .title-page {
   margin-bottom: 40px;
 }
@@ -76,10 +73,6 @@ h1 {
   margin-bottom: 20px;
   border-radius: 28px;
   margin-top: 48px;
-}
-
-.content-card {
-
 }
 
 .content-card p {
